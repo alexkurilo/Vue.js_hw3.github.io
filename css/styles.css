@@ -1,0 +1,34 @@
+.button{
+	width: 340px;
+	border-radius: 5px;
+	background-color: #DCDCDC;
+	text-align: center;
+}
+.menu_item{
+	width: 300px;
+	border-radius: 5px;
+	display:inline-block;
+	color:#444555;
+	padding: 5px 20px;
+	background-color:#DDDDDD;
+	float: center;
+}
+.link{
+	text-decoration: none;
+	color: green;
+
+}
+.wrap:hover{
+
+	background-color:#00FF7F;
+}
+.link:hover{
+	color: white;
+}
+.menu{
+	color: black;
+}
+.picture{
+	width: 300px;
+	
+}
